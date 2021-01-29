@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://claragoldmann.github.io/femicura/sitemap.xml
